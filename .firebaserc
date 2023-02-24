@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "myclone-21503": {
+      "hosting": {
+        "my-amazon-clone": [
+          "myclone-21503"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "myclone-21503"
+  }
+}
